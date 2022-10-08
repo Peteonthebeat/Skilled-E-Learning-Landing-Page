@@ -51,7 +51,7 @@ body {
     font-size: 1em;
     padding: 0.5em;
     margin: 1.5em 1em;
-    font-weight: 700;
+    font-weight: 700!important;
   }
   button:hover {
     transition: 1s ease-out;
@@ -98,7 +98,7 @@ body {
         font-size: 1em;
         padding: 0.5em;
         margin: 1.5em 1em;
-        font-weight: 700;
+        font-weight: 700!important;
       }
       button:hover {
         transition: 1s;
@@ -191,7 +191,7 @@ body {
       text-align: center;
       font-size: 1em;
       padding: 0.5em;
-      font-weight: 700;
+      font-weight: 700!important;
     }
     button:hover {
       cursor: pointer;
