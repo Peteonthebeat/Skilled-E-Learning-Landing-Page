@@ -20,7 +20,7 @@ This is a solution to the [Skilled e-learning landing page challenge on Frontend
 ![](./screenshot.png)
 
 - Solution URL: [https://github.com/Peteonthebeat/Skilled-E-Learning-Landing-Page.git]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://peteonthebeat.github.io/Skilled-E-Learning-Landing-Page/]om)
 
 ## My process
 
