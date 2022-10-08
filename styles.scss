@@ -51,6 +51,7 @@ body {
     font-size: 1em;
     padding: 0.5em;
     margin: 1.5em 1em;
+    font-weight: 700;
   }
   button:hover {
     transition: 1s ease-out;
@@ -71,7 +72,6 @@ body {
       position: relative;
     }
     .upper-section {
-
       width: 100%;
       h1 {
         margin: 0.5em;
@@ -98,6 +98,7 @@ body {
         font-size: 1em;
         padding: 0.5em;
         margin: 1.5em 1em;
+        font-weight: 700;
       }
       button:hover {
         transition: 1s;
@@ -190,6 +191,7 @@ body {
       text-align: center;
       font-size: 1em;
       padding: 0.5em;
+      font-weight: 700;
     }
     button:hover {
       cursor: pointer;
@@ -245,7 +247,6 @@ body {
 
           button {
             margin: 1.5em 0 0 0;
-           
           }
         }
         .hero-mobile,
